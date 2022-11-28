@@ -3,3 +3,11 @@ text-align: center;
 color: chocolate;
 background-color: aqua;
 }
+p{
+font-size: 25px;
+
+}
+span{
+      color: darkorange;
+      font-weight: 900;
+}

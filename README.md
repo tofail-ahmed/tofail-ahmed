@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm [Tofail Ahmed Sayem]
+# Hey there! 👋 I'm Tofail Ahmed Sayem
 
 A MERN stack developer passionate about crafting scalable and performant web applications using TypeScript, Redux, and Next.js.
 

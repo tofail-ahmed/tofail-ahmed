@@ -2,7 +2,7 @@
 
 A MERN stack developer passionate about crafting scalable and performant web applications using TypeScript, Redux, and Next.js.
 
-🌍 I'm based in [Chattogram,Bangladesh].
+🌍 I'm based in Chattogram, Bangladesh.
 
 ## About Me
 

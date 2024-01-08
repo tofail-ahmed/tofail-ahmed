@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Tofail Ahmed Sayem 👋</h1>
   <p>A MERN stack developer passionate about building scalable applications with TypeScript, Redux, and Next.js.</p>
   
-  <img src="https://ibb.co/SB83Rhy" alt="Tofail Ahmed Sayem" width="500" height="auto">
+  <img src="https://ibb.co/SB83Rhy" alt="Tofail Ahmed Sayem" width="500" height="auto"/>
 
   <h3>🚀 Skills & Tools</h3>
   <p>
@@ -32,7 +32,7 @@
 
 Portfolio: <a href="https://tofailahmedportfolio.netlify.app/">Portfolio</a> <br>
   <img src="https://ibb.co/DQmwfrL"  width="100" height="auto"> LinkedIn: <a href="https://www.linkedin.com/in/tofail-ahmed-130993192/">LinkedIn</a> <br>
-<img src="https://ibb.co/ZxvhMCJ"  width="100" height="auto">Email: [Email](mailto:atofail50@gmail.com)
+Email: [<a href="https://ibb.co/ZxvhMCJ"><img src="https://i.ibb.co/ZxvhMCJ/email.png" alt="email" border="0" width="30" height="auto" /> </a>](mailto:atofail50@gmail.com)
 
   </p>
 

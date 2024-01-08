@@ -1,40 +1,47 @@
-# Hey there! 👋 I'm Tofail Ahmed Sayem
+<div align="center">
+  <h1>Hi there, I'm Tofail Ahmed Sayem 👋</h1>
+  <p>A MERN stack developer passionate about building scalable applications with TypeScript, Redux, and Next.js.</p>
+  
+  <img src="https://ibb.co/SB83Rhy" alt="Tofail Ahmed Sayem" width="500" height="auto">
 
-A MERN stack developer passionate about crafting scalable and performant web applications using TypeScript, Redux, and Next.js.
+  <h3>🚀 Skills & Tools</h3>
+  <p>
+    Frontend: React, Next.js, TypeScript <br>
+    Backend: Node.js, Express.js <br>
+    Database: MongoDB <br>
+    State Management: Redux, Redux Toolkit <br>
+    DevOps & Deployment: Docker, AWS, Heroku <br>
+    Testing: Jest, React Testing Library
+  </p>
 
-🌍 I'm based in Chattogram, Bangladesh.
+  <h3>🌱 Currently Exploring</h3>
+  <p>
+    GraphQL <br>
+    Serverless Architecture
+  </p>
 
-## About Me
+  
+  <h3>🤝 Open to Collaborate</h3>
+  <p>
+    Seeking opportunities to contribute to interesting projects. <br>
+    Available for freelance work or collaboration on innovative ideas.
+  </p>
 
-- 💻 I’m currently diving deep into [Current Tech/Interest].
-- 🌱 Learning and exploring new things is my jam!
-- 🤝 Open to collaborating on [Type of Projects/Interests].
-- 💬 Let's chat about [Your Expertise/Interest].
-- 📫 Reach me at [Your Email] or [Your Website].
+  <h3>📫 Reach Me</h3>
+  <p>
 
-🚀 **Skills & Tools**:
-- **Frontend**: React, Next.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **State Management**: Redux, Redux Toolkit
-- **Type Safety**: TypeScript
-- **DevOps & Deployment**: Docker, AWS, Heroku
-- **Testing**: Jest, React Testing Library
+Portfolio: <a href="https://tofailahmedportfolio.netlify.app/">Portfolio</a> <br>
+  <img src="https://ibb.co/DQmwfrL"  width="100" height="auto"> LinkedIn: <a href="https://www.linkedin.com/in/tofail-ahmed-130993192/">LinkedIn</a> <br>
+<img src="https://ibb.co/ZxvhMCJ"  width="100" height="auto">Email: [Email](mailto:atofail50@gmail.com)
 
-🌱 **Currently exploring**:
-- GraphQL
-- Serverless Architecture
+  </p>
 
-  🤝 **Open to Collaborate**:
-- Seeking opportunities to contribute to interesting projects.
-- Available for freelance work or collaboration on innovative ideas.
+  <h3>🌟 Fun Facts</h3>
+  <p>
+    Favorite Stack: MERN with TypeScript <br>
+    Hobbies: Coding, hiking, and exploring new technologies <br>
+    Fun Fact: I love trying out new coffee blends while coding ☕️
+  </p>
 
-
-## Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/tofail-ahmed-130993192/)
-- [Portfolio/Blog](https://tofailahmedportfolio.netlify.app/)
-
-
-Feel free to browse my repositories and connect with me! I'm excited about meaningful collaborations and discussions.
-
+  <p>Feel free to explore my repositories and connect with me! Let's build amazing things together.</p>
+</div>

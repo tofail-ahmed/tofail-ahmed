@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Tofail Ahmed Sayem 👋</h1>
   <p>A MERN stack developer passionate about building scalable applications with TypeScript, Redux, and Next.js.</p>
   
-  <img src="https://ibb.co/SB83Rhy" alt="Tofail Ahmed Sayem" width="500" height="auto"/>
+ <a href="https://ibb.co/SB83Rhy"><img src="https://i.ibb.co/Pgn6w7j/profile-img.jpg" alt="profile-img" border="0" width="300" height="auto" /></a>
 
   <h3>🚀 Skills & Tools</h3>
   <p>

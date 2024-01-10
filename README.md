@@ -4,15 +4,24 @@
   
  <a href="https://ibb.co/SB83Rhy"><img src="https://i.ibb.co/Pgn6w7j/profile-img.jpg" alt="profile-img" border="0" width="300" height="auto" /></a>
 
+
+
   <h3>🚀 Skills & Tools</h3>
-  <p>
-    Frontend: React, Next.js, TypeScript <br>
-    Backend: Node.js, Express.js <br>
+  <div>
+    <h2>Frontend</h2><br>
+    <img src="https://github.com/tofail-ahmed/tofail-ahmed/assets/118469390/a05eefab-72c1-44b1-99f6-3ad85477e0c8"  width="100"/>
+<img src="https://github.com/tofail-ahmed/tofail-ahmed/assets/118469390/ff2b738d-28f6-45fe-a831-bb5dbee4d7f7"  width="100"/>
+<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png"  width="100"/><br>
+<br>
+    <h2>Backend</h2><br> <img src="https://github.com/tofail-ahmed/tofail-ahmed/assets/118469390/bee418c4-9f73-4541-bc77-e5b607f763e9"  width="100"/>
+     <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"  width="100"/>
+<br>
+   
     Database: MongoDB <br>
     State Management: Redux, Redux Toolkit <br>
     DevOps & Deployment: Docker, AWS, Heroku <br>
     Testing: Jest, React Testing Library
-  </p>
+  </div>
 
   <h3>🌱 Currently Exploring</h3>
   <p>

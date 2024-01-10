@@ -31,8 +31,8 @@
   <p>
 
 Portfolio: <a href="https://tofailahmedportfolio.netlify.app/">Portfolio</a> <br>
-  <img src="https://ibb.co/DQmwfrL"  width="100" height="auto"> LinkedIn: <a href="https://www.linkedin.com/in/tofail-ahmed-130993192/">LinkedIn</a> <br>
-Email: [<a href="https://ibb.co/ZxvhMCJ"><img src="https://i.ibb.co/ZxvhMCJ/email.png" alt="email" border="0" width="30" height="auto" /> </a>](mailto:atofail50@gmail.com)
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/M7KPkB9/linkedinpng.png" alt="linkedinpng" border="0"  width="30" height="auto"/></a> LinkedIn: <a href="https://www.linkedin.com/in/tofail-ahmed-130993192/">LinkedIn</a> <br>
+<a href="https://ibb.co/ZxvhMCJ"><img src="https://i.ibb.co/ZxvhMCJ/email.png" alt="email" border="0" width="30" height="auto" /> </a>Email: [Email](mailto:atofail50@gmail.com)
 
   </p>
 

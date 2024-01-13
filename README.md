@@ -19,9 +19,11 @@
     <h2>Database</h2><br> <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png"  width="100"/>
     
 <br>
+    <h2>State Management</h2><br> <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png"  width="170"/>
+    
+<br>
    
     
-    State Management: Redux, Redux Toolkit <br>
     DevOps & Deployment: Docker, AWS, Heroku <br>
     Testing: Jest, React Testing Library
   </div>

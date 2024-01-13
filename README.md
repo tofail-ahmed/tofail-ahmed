@@ -16,8 +16,11 @@
     <h2>Backend</h2><br> <img src="https://github.com/tofail-ahmed/tofail-ahmed/assets/118469390/bee418c4-9f73-4541-bc77-e5b607f763e9"  width="100"/>
      <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"  width="100"/>
 <br>
+    <h2>Database</h2><br> <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png"  width="100"/>
+    
+<br>
    
-    Database: MongoDB <br>
+    
     State Management: Redux, Redux Toolkit <br>
     DevOps & Deployment: Docker, AWS, Heroku <br>
     Testing: Jest, React Testing Library

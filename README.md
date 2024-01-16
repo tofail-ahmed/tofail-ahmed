@@ -22,8 +22,9 @@
     <h2>State Management</h2><br> <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png"  width="170"/>
     
 <br>
-    <h2>DevOps & Deployment</h2><br> <img src="https://karmanivero.us/assets/images/logo-vercel.png"  width="170"/>
-    <img src="https://www.svgrepo.com/show/331424/heroku.svg"  width="170"/>
+    <h2>DevOps & Deployment</h2><br> <img src="https://karmanivero.us/assets/images/logo-vercel.png"  width="100"/>
+    <img src="https://www.svgrepo.com/show/331424/heroku.svg"  width="100"/>
+    <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png"  width="100"/>
     
 <br>
    

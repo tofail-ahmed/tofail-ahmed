@@ -22,6 +22,9 @@
     <h2>State Management</h2><br> <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png"  width="170"/>
     
 <br>
+    <h2>DevOps & Deployment</h2><br> <img src="https://karmanivero.us/assets/images/logo-vercel.png"  width="170"/>
+    
+<br>
    
     
     DevOps & Deployment: Docker, AWS, Heroku <br>

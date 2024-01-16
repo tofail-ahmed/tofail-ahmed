@@ -23,6 +23,7 @@
     
 <br>
     <h2>DevOps & Deployment</h2><br> <img src="https://karmanivero.us/assets/images/logo-vercel.png"  width="170"/>
+    <img src="https://www.svgrepo.com/show/331424/heroku.svg"  width="170"/>
     
 <br>
    

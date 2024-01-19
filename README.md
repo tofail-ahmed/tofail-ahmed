@@ -29,7 +29,7 @@
 <br>
    
     
-    DevOps & Deployment: Docker, AWS, Heroku <br>
+    
     Testing: Jest, React Testing Library
   </div>
 

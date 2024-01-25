@@ -6,7 +6,7 @@
 
 
 
-  <h3>🚀 Skills & Tools</h3>
+  <h1>🚀 Skills & Tools</h1>
   <div>
     <h2>Frontend</h2><br>
     <img src="https://github.com/tofail-ahmed/tofail-ahmed/assets/118469390/a05eefab-72c1-44b1-99f6-3ad85477e0c8"  width="100"/>
@@ -34,15 +34,15 @@
 <br>
    
     
-    
-    Testing: Jest, React Testing Library
+   <h2>🌱 Currently Exploring</h2><br>
+ <img src="https://futuresolutionsonline.co.uk/wp-content/uploads/2023/04/mySQL-logo.png"  width="100"/>
+     <br> 
+   
   </div>
 
-  <h3>🌱 Currently Exploring</h3>
-  <p>
-    GraphQL <br>
-    Serverless Architecture
-  </p>
+  
+   
+ 
 
   
   <h3>🤝 Open to Collaborate</h3>

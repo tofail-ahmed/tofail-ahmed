@@ -36,7 +36,11 @@
     
    <h2>🌱 Currently Exploring</h2><br>
  <img src="https://futuresolutionsonline.co.uk/wp-content/uploads/2023/04/mySQL-logo.png"  width="100"/>
+ <img src="https://i.imgur.com/Kqxbl5Q.png" alt="Profile Image" width="100" border-radius="50%">
      <br> 
+
+
+
    
   </div>
 

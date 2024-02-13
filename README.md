@@ -9,7 +9,7 @@
   <h1>🚀 Skills & Tools</h1>
   <div>
     <h2>Frontend</h2><br>
-    <img src="https://github.com/tofail-ahmed/tofail-ahmed/assets/118469390/a05eefab-72c1-44b1-99f6-3ad85477e0c8"  width="100"/>
+    <img src="https://github.com/tofail-ahmed/tofail-ahmed/assets/118469390/a05eefab-72c1-44b1-99f6-3ad85477e0c8"  width="100" title="Reactjs"/>
 <img src="https://github.com/tofail-ahmed/tofail-ahmed/assets/118469390/ff2b738d-28f6-45fe-a831-bb5dbee4d7f7"  width="100"/>
 <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png"  width="100"/><br>
 <br>

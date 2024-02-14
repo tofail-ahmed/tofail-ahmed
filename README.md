@@ -32,6 +32,15 @@
     <img src="https://icon-library.com/images/bootstrap-icon-png/bootstrap-icon-png-11.jpg"  width="100"/>
     
 <br>
+    
+<br>
+    <h2>UI </h2><br> 
+    <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-256x256-xqqnxs3z.png" title="antDesign"  width="100"/>
+    <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/daisyui_logo_icon_249080.png" title="daisyUI"  width="100"/>
+    <img src="https://www.happylifecreators.com/wp/wp-content/uploads/2022/06/chakra-ui_title2-770x528.png" title="chakraUi"  width="100"/>
+    <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" title="shadcnUI"  width="100"/>
+    
+<br>
    
     
    <h2>🌱 Currently Exploring</h2><br>

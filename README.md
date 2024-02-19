@@ -1,84 +1,31 @@
-<div align="center">
-  <h1>Hi there, I'm Tofail Ahmed Sayem 👋</h1>
-  <h3>A MERN stack developer passionate about building scalable applications with TypeScript, Redux, and Next.js.</h3>
-  
- 
+<h1 align="center">Hi There 👋, I'm Tofail Ahmed</h1>
+<h3 align="center">A MERN stack developer passionate about building scalable applications with TypeScript, Redux, and Next.js.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tofail-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="tofail-ahmed" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tofail-ahmed" alt="tofail-ahmed" /></a> </p>
 
-  <h1>🚀 Skills & Tools</h1>
-  <div>
-    <h2>Frontend</h2><br>
-    <img src="https://github.com/tofail-ahmed/tofail-ahmed/assets/118469390/a05eefab-72c1-44b1-99f6-3ad85477e0c8"  width="100" title="Reactjs"/>
-<img src="https://github.com/tofail-ahmed/tofail-ahmed/assets/118469390/ff2b738d-28f6-45fe-a831-bb5dbee4d7f7"  width="100" title="typescript"/>
-<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png"  width="100"  title="nextjs"/><br>
-<br>
-    <h2>Backend</h2><br> <img src="https://github.com/tofail-ahmed/tofail-ahmed/assets/118469390/bee418c4-9f73-4541-bc77-e5b607f763e9"  width="100"/>
-     <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"  width="100"/>
-<br>
-    <h2>Database</h2><br> <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png"  width="100"/>
-    
-<br>
-    <h2>State Management</h2><br> <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png"  width="150"/>
-    
-<br>
-    <h2>DevOps & Deployment</h2><br> <img src="https://karmanivero.us/assets/images/logo-vercel.png"  width="100"/>
-    <img src="https://www.svgrepo.com/show/331424/heroku.svg"  width="100"/>
-    <img src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png"  width="100"/>
-    
-<br>
-    <h2>CSS frameworks</h2><br> 
-    <img src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu"  width="100"/>
-    <img src="https://icon-library.com/images/bootstrap-icon-png/bootstrap-icon-png-11.jpg"  width="100"/>
-    
-<br>
-    
-<br>
-    <h2>UI </h2><br> 
-    <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-256x256-xqqnxs3z.png" title="antDesign"  width="100"/>
-    <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/daisyui_logo_icon_249080.png" title="daisyUI"  width="100"/>
-    <img src="https://www.happylifecreators.com/wp/wp-content/uploads/2022/06/chakra-ui_title2-770x528.png" title="chakraUi"  width="100"/>
-    <img src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" title="shadcnUI"  width="100"/>
-    
-<br>
-   
-    
-   <h2>🌱 Currently Exploring</h2><br>
- <img src="https://futuresolutionsonline.co.uk/wp-content/uploads/2023/04/mySQL-logo.png"  width="100"/>
- <img src="https://i.imgur.com/Kqxbl5Q.png" alt="Profile Image" width="100" border-radius="50%">
-     <br> 
+- 🌱 I’m currently learning **Redux and Nextjs**
 
+- 👨‍💻 All of my projects are available at [https://tofailahmedportfolio.netlify.app/](https://tofailahmedportfolio.netlify.app/)
 
+- 💬 Ask me about **react,javascript, typescript, redux, and nextjs**
 
-   
-  </div>
+- 📫 How to reach me **atofail50@gmail.com**
 
-  
-   
- 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zc7bbk_x8gSqTisRW5EZnMnfGw1V64-8/view?usp=drive_link](https://drive.google.com/file/d/1zc7bbk_x8gSqTisRW5EZnMnfGw1V64-8/view?usp=drive_link)
 
-  
-  <h3>🤝 Open to Collaborate</h3>
-  <p>
-    Seeking opportunities to contribute to interesting projects. <br>
-    Available for freelance work or collaboration on innovative ideas.
-  </p>
+- ⚡ Fun fact **I love trying out new coffee blends while coding**
 
-  <h3>📫 Reach Me</h3>
-  <p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Portfolio: <a href="https://tofailahmedportfolio.netlify.app/">Portfolio</a> <br>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/M7KPkB9/linkedinpng.png" alt="linkedinpng" border="0"  width="30" height="auto"/></a> LinkedIn: <a href="https://www.linkedin.com/in/tofail-ahmed-130993192/">LinkedIn</a> <br>
-<a href="https://ibb.co/ZxvhMCJ"><img src="https://i.ibb.co/ZxvhMCJ/email.png" alt="email" border="0" width="30" height="auto" /> </a>Email: [Email](mailto:atofail50@gmail.com)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-  </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tofail-ahmed&show_icons=true&locale=en&layout=compact" alt="tofail-ahmed" /></p>
 
-  <h3>🌟 Fun Facts</h3>
-  <p>
-    Favorite Stack: MERN with TypeScript <br>
-    Hobbies: Coding, hiking, and exploring new technologies <br>
-    Fun Fact: I love trying out new coffee blends while coding ☕️
-  </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofail-ahmed&show_icons=true&locale=en" alt="tofail-ahmed" /></p>
 
-  <p>Feel free to explore my repositories and connect with me! Let's build amazing things together.</p>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tofail-ahmed&" alt="tofail-ahmed" /></p>

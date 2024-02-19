@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Redux and Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://tofailahmedportfolio.netlify.app/](https://tofailahmedportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://tofailahmedportfolio.netlify.app/)
 
 - 💬 Ask me about **react,javascript, typescript, redux, and nextjs**
 
-- 📫 How to reach me **atofail50@gmail.com**
+- 📫 How to reach me [Email](mailto:atofail50@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zc7bbk_x8gSqTisRW5EZnMnfGw1V64-8/view?usp=drive_link](https://drive.google.com/file/d/1zc7bbk_x8gSqTisRW5EZnMnfGw1V64-8/view?usp=drive_link)
+- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/1zc7bbk_x8gSqTisRW5EZnMnfGw1V64-8/view?usp=drive_link)
 
 - ⚡ Fun fact **I love trying out new coffee blends while coding**
 

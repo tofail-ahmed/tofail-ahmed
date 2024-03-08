@@ -36,3 +36,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofail-ahmed&theme=discord_old_blurple)
 
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/tofail-ahmed/tofail-ahmed/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/tofail-ahmed/tofail-ahmed/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+

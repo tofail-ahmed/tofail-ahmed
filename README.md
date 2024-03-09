@@ -29,7 +29,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofail-ahmed&theme=dark)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofail-ahmed&theme=dark&show_icons=true&locale=en" alt="tofail-ahmed" /></p>
+<p align="center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofail-ahmed&theme=dark&show_icons=true&locale=en" alt="tofail-ahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tofail-ahmed&theme=dark&" alt="tofail-ahmed" /></p>
 

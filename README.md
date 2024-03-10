@@ -42,7 +42,6 @@
 
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/tofail-ahmed/tofail-ahmed/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 

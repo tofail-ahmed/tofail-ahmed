@@ -31,9 +31,11 @@
 
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofail-ahmed&theme=dark"/></p>
+<div align="center"> <img src="https://streak-stats.demolab.com?user=tofail-ahmed&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" alt="streak graph"  /></div>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tofail-ahmed&theme=dark&show_icons=true&locale=en" alt="tofail-ahmed" /></p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=tofail-ahmed&theme=dark&" alt="tofail-ahmed" /></p>
+
+
 <div align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tofail-ahmed&theme=dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tofail-ahmed&theme=dark" height="180em" /></div>
 

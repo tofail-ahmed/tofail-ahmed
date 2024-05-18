@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Redux , NextJS and advanced React**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://tofailahmedportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://tofail-three.vercel.app/)
 
 - 💬 Ask me about **ReactJS, Javascript, Typescript, Redux, and NextJS**
 
 - 📫 How to reach me [Email](mailto:atofail50@gmail.com)
 
-- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/1zc7bbk_x8gSqTisRW5EZnMnfGw1V64-8/view?usp=drive_link)
+- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/1joei7ft1iHNA98MRIxg84ez15-r-fNTA/view?usp=drive_link)
 
 - ⚡ Fun fact **I love trying out new coffee blends while coding**
 

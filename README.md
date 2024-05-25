@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Redux , NextJS and advanced React**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://tofail-three.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://atofail.vercel.app/)
 
 - 💬 Ask me about **ReactJS, Javascript, Typescript, Redux, and NextJS**
 

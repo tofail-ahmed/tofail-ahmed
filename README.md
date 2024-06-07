@@ -18,7 +18,7 @@
 
 - 📫 How to reach me [Email](mailto:atofail50@gmail.com)
 
-- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/1joei7ft1iHNA98MRIxg84ez15-r-fNTA/view?usp=drive_link)
+- 📄 Know about my experiences [View my resume](https://drive.google.com/file/d/1wLCgJbaJv42-6E3D63IwaOlWp9-hMhq5/view)
 
 - ⚡ Fun fact **I love trying out new coffee blends while coding**
 

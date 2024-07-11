@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="100%" src="githuub_coverphoto.png">
+<img align="right" alt="Coding" width="100%" src="linkedin_cover(1).png">
 
 <h1 align="center">Hi 👋, I'm <a href="https://atofail.vercel.app/">Tofail</a></h1>
 

@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tofail-ahmed&theme=dark" alt="tofail-ahmed" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **JQuery, PHP, and Python**
+- 🌱 I’m currently learning **PHP and Python**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://atofail.vercel.app/)
 

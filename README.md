@@ -1,4 +1,11 @@
-<img align="right" alt="Coding" width="100%" src="linkedin_cover (1).png">
+
+
+<p align="center">
+  <img src="https://i.ibb.co/r2f0kp39/tofail-dev-cover-326.png" width="100%">
+</p>
+
+<br>
+
 
 <!-- <h1 align="center">Hi 👋, I'm <a href="https://atofail.vercel.app/">Tofail</a></h1> -->
 
@@ -159,6 +166,7 @@
 
 
 <div align="center"><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofail-ahmed&theme=discord_old_blurple" /></div>
+
 
 
 

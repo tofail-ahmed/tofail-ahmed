@@ -65,6 +65,19 @@
 
 ---
 
+
+### 💻 Coding Vibes
+
+<p align="center">
+  <img width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</p>
+
+### 💻 Coding Vibes
+
+<p align="center">
+  <img width="420" src="https://user-images.githubusercontent.com/74038190/212897597-3c2f0e59-5c3c-4e9a-bc6c-6d8fdd5c9c4b.gif">
+</p>
+
 ### 🤝 Connect With Me
 
 <p align="left">
@@ -146,6 +159,7 @@
 
 
 <div align="center"><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofail-ahmed&theme=discord_old_blurple" /></div>
+
 
 
 

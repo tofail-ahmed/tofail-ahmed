@@ -75,27 +75,27 @@
 
 
 
-<p align="center">
-  <img width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
 
+  <!-- Left: Connect With Me -->
+  <div style="flex: 1;">
+    <h3>🤝 Connect With Me</h3>
+    <a href="https://linkedin.com/in/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    </a>
+    <a href="https://github.com/tofail-ahmed" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" height="40"/>
+    </a>
+    <a href="mailto:atofail50@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    </a>
+  </div>
 
+  <!-- Right: Coding GIF -->
+  <div style="flex: 1; text-align: right;">
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420"/>
+  </div>
 
-<div>
-
-  ### 🤝 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://github.com/tofail-ahmed" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-<a href="mailto:atofail50@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-</p>
 </div>
 
 
@@ -167,6 +167,7 @@
 
 
 <div align="center"><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofail-ahmed&theme=discord_old_blurple" /></div>
+
 
 
 

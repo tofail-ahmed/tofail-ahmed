@@ -73,19 +73,17 @@
 ---
 
 
-### 💻 Coding Vibes
+
 
 <p align="center">
   <img width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </p>
 
-### 💻 Coding Vibes
 
-<p align="center">
-  <img width="420" src="https://user-images.githubusercontent.com/74038190/212897597-3c2f0e59-5c3c-4e9a-bc6c-6d8fdd5c9c4b.gif">
-</p>
 
-### 🤝 Connect With Me
+<div>
+
+  ### 🤝 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/" target="blank">
@@ -98,6 +96,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
+</div>
 
 
 <p align="center" > <a href="https://ibb.co/k6DqKht6"><img src="https://i.ibb.co/yBkg08rB/tofail-contact-cover.gif" alt="tofail-contact-cover" border="0"></a></p>
@@ -168,6 +167,7 @@
 
 
 <div align="center"><img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tofail-ahmed&theme=discord_old_blurple" /></div>
+
 
 
 

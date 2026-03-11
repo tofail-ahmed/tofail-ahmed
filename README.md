@@ -173,11 +173,16 @@
 
 
 
+======================================================
 
 
 
 
+<h3 align="center">📈 GitHub Activity Graph</h3>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tofail-ahmed&theme=react-dark&hide_border=true"/>
+</p>
 
 
 

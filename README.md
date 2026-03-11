@@ -6,10 +6,11 @@
 
 <br>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Tofail+Ahmed;Frontend+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications"/>
-</p>
 
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=00FF26&center=true&vCenter=true&width=700&lines=Hi+I'm+Tofail+Ahmed;Frontend+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications"/>
+</p>
 
 
 
@@ -199,9 +200,8 @@
 =======================
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Tofail+Ahmed;Frontend+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications"/>
-</p>
+
+
 
 
 

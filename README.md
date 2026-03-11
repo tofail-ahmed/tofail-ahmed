@@ -6,12 +6,24 @@
 
 <br>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Tofail+Ahmed;Frontend+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications"/>
+</p>
 
-<!-- <h1 align="center">Hi 👋, I'm <a href="https://atofail.vercel.app/">Tofail</a></h1> -->
 
 
-<!-- <h3 align="center">A MERN stack developer passionate about building scalable applications with TypeScript, Redux, and Next.js.</h3>
 
+
+
+
+ <h3 align="center" width="400">A MERN stack developer passionate about building scalable applications with TypeScript, Redux, and Next.js.</h3>
+
+
+
+
+
+
+==
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tofail-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="tofail-ahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tofail-ahmed&theme=dark" alt="tofail-ahmed" /></a> </p>
@@ -184,6 +196,12 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tofail-ahmed&theme=react-dark&hide_border=true"/>
 </p>
 
+=======================
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Tofail+Ahmed;Frontend+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Applications"/>
+</p>
 
 
 

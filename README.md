@@ -1,3 +1,11 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=🚧+PROFILE+UNDER+DEVELOPMENT+🚧"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PROFILE-UNDER%20DEVELOPMENT-ff0000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 
 
 <p align="center">
@@ -198,6 +206,7 @@
 </p>
 
 =======================
+
 
 
 

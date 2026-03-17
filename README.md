@@ -6,6 +6,23 @@
 <img src="https://img.shields.io/badge/PROFILE-UNDER%20DEVELOPMENT-ff0000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/FN-FAL113/github-readme-steam-status/issues">
+    <img src="https://img.shields.io/github/issues/FN-FAL113/github-readme-steam-status"/> 
+  </a>
+  <a href="https://github.com/FN-FAL113/github-readme-steam-status/pulls">
+    <img src="https://img.shields.io/github/issues-pr/FN-FAL113/github-readme-steam-status"/> 
+  </a>
+  <a href="https://github.com/FN-FAL113/github-readme-steam-status/network/members">
+    <img src="https://img.shields.io/github/forks/FN-FAL113/github-readme-steam-status"/> 
+  </a>  
+  <a href="https://github.com/FN-FAL113/github-readme-steam-status/stargazers">
+    <img src="https://img.shields.io/github/stars/FN-FAL113/github-readme-steam-status"/> 
+  </a>
+  <a href="https://github.com/FN-FAL113/github-readme-steam-status/LICENSE">
+    <img src="https://img.shields.io/github/license/FN-FAL113/github-readme-steam-status"/> 
+  </a> 
+</p>
 
 
 <p align="center">
